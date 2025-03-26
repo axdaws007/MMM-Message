@@ -1,0 +1,40 @@
+
+.message-container {
+  text-align: left;
+  width: 100%;
+}
+
+.message-title-wrapper {
+  margin-bottom: 15px;
+}
+
+.message-title {
+  font-weight: bold;
+  text-align: center;
+}
+
+.message-list {
+  display: flex;
+  flex-direction: column;
+}
+
+.message-item {
+  margin-bottom: 5px;
+}
+
+.message-header {
+  color: rgba(255, 255, 255, 0.75);
+  margin-bottom: 5px;
+}
+
+.message-content {
+  line-height: 1.4;
+  margin-bottom: 5px;
+  text-align: left;
+  color: #fff; /* bright text color */
+}
+
+.message-divider {
+  border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+  margin: 10px 0;
+}
