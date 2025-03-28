@@ -26,7 +26,7 @@ In your terminal, go to your [MagicMirror²](https://github.com/MagicMirrorOrg/M
 
 ```bash
 cd ~/MagicMirror/modules
-git clone https://github.com/Dennis-Rosenbaum/MMM-Message.git
+git clone https://github.com/axdaws007/MMM-Message.git
 ```
 
 ### Update
